@@ -18,13 +18,13 @@
     "hitCreation": {
         "title": "Image blocks",
         "description": "Watch several blocks of images and answer questions about them",
-        "numTasks": 17,
+        "numTasks": 25,
         "numAssignments": 1,
         "rewardAmount": "2.00",
         "keywords": "images, 2D, questions",
         "duration": 4000,
         "lifetime": 86400,
-        "taskUrl": "https://vrtimesurveys.github.io/",
+        "taskUrl": "https://smalpica.github.io/spatialContrastWebSurvey/",
         "variants": []
     },
     "advanced": {
